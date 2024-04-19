@@ -14,7 +14,7 @@ With PriceCraft, you can customize the weight of your products. This customizati
 ## Installation
 
 1. **Download the Plugin**:
-   - Download the plugin ZIP file from the [GitHub repository](https://github.com/your-username/pricecraft-for-woocommerce).
+   - Download the plugin ZIP file.
 
 2. **Upload to WordPress Admin Panel**:
    - Log in to your WordPress admin panel.
@@ -45,11 +45,11 @@ With PriceCraft, you can customize the weight of your products. This customizati
 
 ## Support
 
-If you encounter any issues or have questions about using the PriceCraft for WooCommerce plugin, please [open an issue](https://github.com/your-username/pricecraft-for-woocommerce/issues) on GitHub. Our team will be happy to assist you.
+If you encounter any issues or have questions about using the PriceCraft for WooCommerce plugin, please [open an issue] on GitHub. I will be happy to assist you.
 
 ## Contributing
 
-Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to [fork the repository](https://github.com/your-username/pricecraft-for-woocommerce) and submit a pull request. We appreciate your help in making PriceCraft even better for the community.
+Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to [fork the repository] and submit a pull request. We appreciate your help in making PriceCraft even better for the community.
 
 ## License
 
